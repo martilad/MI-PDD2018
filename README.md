@@ -1,2 +1,2 @@
 # MI-PDD
-Repo fir subject MI-PDD
+Repo for subject MI-PDD
