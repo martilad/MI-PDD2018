@@ -1,0 +1,3 @@
+[submodule "MI-PDD2018_tasks"]
+	path = MI-PDD2018_tasks
+	url = git@github.com:martilad/MI-PDD2018_tasks.git
